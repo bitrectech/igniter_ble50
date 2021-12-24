@@ -8,11 +8,12 @@
 [![standard-readme
 compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/app/src/main/res/drawable-nodpi/logosoft.png" width="100" alt="logo" /> 
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/Igniter.png" width="100" alt="logo" /> 
 
-安卓蓝牙远程点火装置,应用于模型火箭的点火操作,这是蓝牙端源码，基于ESP32-C3(架构为riscv32)。安卓端原理源码[点击这里](https://github.com/bitrefactor/igniterBLE5)
 
-其他语言 [English](https://github.com/bitrefactor/igniterBiu/blob/master/README_en.md)
+安卓蓝牙远程点火装置,应用于模型火箭的点火操作,这是蓝牙端源码，基于ESP32-C3(架构为riscv32)。安卓端原理源码[点击这里](https://github.com/bitrefactor/igniterBiu)
+
+其他语言 [English](https://github.com/bitrefactor/igniter_ble50/blob/master/README_en.md)
 
 <html>
     <table style="margin-left: auto; margin-right: auto;">

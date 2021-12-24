@@ -13,9 +13,9 @@ Compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
 
 Android Bluetooth Remote ignition device, applied to the model rocket ignition operation, this is the Bluetooth source
 code based on ESP32-C3 (architecture is RISCV32). Android end principle source code [Click
-here](https://github.com/bitrefactor/igniterble5)
+here](https://github.com/bitrefactor/igniterBiu)
 
-Other languages ​​[English](https://github.com/bitrefactor/readiterbiu/blobal/master/readme_en.md)
+Other languages ​​[English](https://github.com/bitrefactor/igniter_ble50/)
 
 <html>
 <table style="margin-left: auto; margin-right: auto;">
