@@ -1,0 +1,7 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "files.associations": {
+    "igniter_ble50_app.h": "c"
+  }
+}
