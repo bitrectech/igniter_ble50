@@ -11,6 +11,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+#define GATTS_TABLE_TAG "IGNITER_BLE50_APP"
 
 /* Attributes State Machine */
 enum
@@ -28,3 +29,5 @@ enum
 
     HRS_IDX_NB,
 };
+
+void set_lifecycle(void (*write_event_monitor)(esp_ble_gatts_cb_param_t));

@@ -2,6 +2,20 @@
   "C_Cpp.intelliSenseEngine": "Tag Parser",
   "editor.suggest.snippetsPreventQuickSuggestions": false,
   "files.associations": {
-    "igniter_ble50_app.h": "c"
+    "igniter_ble50_app.h": "c",
+    "random": "c",
+    "esp_gap_ble_api.h": "c",
+    "task.h": "c",
+    "esp_log.h": "c",
+    "optional": "c",
+    "istream": "c",
+    "ostream": "c",
+    "ratio": "c",
+    "system_error": "c",
+    "array": "c",
+    "functional": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c"
   }
 }

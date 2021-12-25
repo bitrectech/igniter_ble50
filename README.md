@@ -19,13 +19,13 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/serial_port_display.jpg" width="200" alt="serial_port_display" />
+                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/serial_port_display.png" width="200" alt="serial_port_display" />
             </td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/oscilloscope_display.jpg" width="200" alt="oscilloscope_display" />
+                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/oscilloscope_display.png" width="200" alt="oscilloscope_display" />
             </td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/actual_effect.jpg" width="200" alt="actual_effect" />
+                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/actual_effect.png" width="200" alt="actual_effect" />
             </td>
         </tr>
     </table>
