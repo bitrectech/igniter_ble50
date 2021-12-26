@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="9.1118927mm"
+   height="20.650366mm"
+   viewBox="0 0 9.1118927 20.650366"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="鳄鱼夹电路图.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="4.2784722"
+     inkscape:cx="-55.51047"
+     inkscape:cy="30.618406"
+     inkscape:window-width="2560"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       originx="-41.478431"
+       originy="-101.82829" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.47843,-101.82829)">
+    <path
+       style="fill:none;stroke:#e60000;stroke-width:1.5602;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.890196"
+       d="m 43.084892,103.38226 v 18.18051"
+       id="path6311"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#6a696a;fill-opacity:0.890196;stroke:#e60000;stroke-width:1.5602;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.890196"
+       id="rect12932"
+       width="1.6080593"
+       height="2.1869607"
+       x="42.25853"
+       y="119.5116" />
+    <rect
+       style="fill:#6a696a;fill-opacity:0.890196;stroke:#e60000;stroke-width:1.5602;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.890196"
+       id="rect12932-1"
+       width="1.6080593"
+       height="2.1869607"
+       x="42.307442"
+       y="102.60839" />
+    <path
+       style="fill:none;fill-opacity:0.888889;stroke:#000000;stroke-width:1.5602;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 48.98386,103.35953 v 18.15226"
+       id="path6311-6"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:0.888889;stroke:#000000;stroke-width:1.5602;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12932-7"
+       width="1.6080593"
+       height="2.1869607"
+       x="-49.810223"
+       y="119.46062"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:none;fill-opacity:0.888889;stroke:#000000;stroke-width:1.5602;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12932-7-9"
+       width="1.6080593"
+       height="2.1869607"
+       x="-49.728519"
+       y="102.67023"
+       transform="scale(-1,1)" />
+  </g>
+</svg>

@@ -48,12 +48,31 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
 
 ## 原理
 
-#### 利用蓝牙通信+N沟道MOS实现小电流控制大电流实现控制通断; VIEW->原理图
-<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/IgniterBLE50_Principle.png" width="500" alt="IgniterBLE50_Principle" />
+#### 利用蓝牙通信+N沟道MOS实现小电流控制大电流实现控制镍铬合金加热引燃火柴; VIEW->原理图
 
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/IgniterBLE50_Principle.png" width="400" alt="IgniterBLE50_Principle" />
+
+```
+1.为什么无法点不燃火柴？
+答：镍铬合金通过的电流太小，无法让镍铬合金加热到火柴的燃点。
+
+2.如何断开和手机端的连接？
+答：只需要按下开发板上的reset按键即可。
+```
 ## 制作
 
-## 用法
+1.准备材料\
+&nbsp;  esp32-c3-mini-1开发板\*1；\
+&nbsp;  5\*7洞洞板\*1；\
+&nbsp;  鳄鱼夹\*2(红黑)；\
+&nbsp;  A2SHB(N沟道mos管)；\
+&nbsp;  电池（3.7v）\*1+充电板;\
+&nbsp;  镍铬合金0.1mm一卷；\
+&nbsp;  杜邦线若干；\
+&nbsp;  24AWG电线；
+
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/material_science.png" width="400" alt="material_science.png" />
+## 用法 
 
 
 ## 许可证

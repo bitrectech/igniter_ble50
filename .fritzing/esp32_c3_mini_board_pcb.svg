@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="1.682421in"
+   height="0.7989192in"
+   viewBox="0 0 121.13431 57.522183"
+   id="svg94447"
+   sodipodi:docname="Untitled Sketch 2_pcb.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs94451" />
+  <sodipodi:namedview
+     id="namedview94449"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="5.4690289"
+     inkscape:cx="23.495944"
+     inkscape:cy="48.271824"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g94393"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     partID="63240"
+     id="g94341"
+     transform="translate(-10.802545,-0.1358788)">
+    <g
+       id="copper0"
+       gorn="0.1.2">
+      <g
+         id="copper1"
+         gorn="0.1.2.0">
+        <path
+           d="m 34.272,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector55pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.0"
+           fill="none" />
+        <path
+           d="m 41.472,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector56pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.1"
+           fill="none" />
+        <path
+           d="m 27.072,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector54pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.2"
+           fill="none" />
+        <path
+           d="m 19.872,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector53pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.3"
+           fill="none" />
+        <path
+           d="m 48.672,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector57pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.4"
+           fill="none" />
+        <path
+           d="m 55.872,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector58pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.5"
+           fill="none" />
+        <path
+           d="m 63.072,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector59pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.6"
+           fill="none" />
+        <path
+           d="m 70.272,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector60pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.7"
+           fill="none" />
+        <path
+           d="m 77.472,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector61pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.8"
+           fill="none" />
+        <path
+           d="m 84.672,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector62pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.9"
+           fill="none" />
+        <path
+           d="m 91.872,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector63pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.10"
+           fill="none" />
+        <path
+           d="m 99.072,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector64pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.11"
+           fill="none" />
+        <path
+           d="m 41.472,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector44pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.12"
+           fill="none" />
+        <path
+           d="m 34.272,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector43pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.13"
+           fill="none" />
+        <path
+           d="m 27.072,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector42pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.14"
+           fill="none" />
+        <path
+           d="m 19.872,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector41pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.15"
+           fill="none" />
+        <path
+           d="m 48.672,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector45pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.16"
+           fill="none" />
+        <path
+           d="m 55.872,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector46pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.17"
+           fill="none" />
+        <path
+           d="m 63.072,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector47pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.18"
+           fill="none" />
+        <path
+           d="m 70.272,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector48pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.19"
+           fill="none" />
+        <path
+           d="m 84.672,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector50pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.20"
+           fill="none" />
+        <path
+           d="m 77.472,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector49pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.21"
+           fill="none" />
+        <path
+           d="m 91.872,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector51pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.22"
+           fill="none" />
+        <path
+           d="m 99.072,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector52pad"
+           stroke-width="1.152"
+           gorn="0.1.2.0.23"
+           fill="none" />
+        <path
+           d="m 106.15333,3.4328482 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector52pad-5"
+           stroke-width="1.152"
+           gorn="0.1.2.0.23"
+           fill="none" />
+        <path
+           d="m 113.91091,3.4328485 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector52pad-3"
+           stroke-width="1.152"
+           gorn="0.1.2.0.23"
+           fill="none" />
+        <path
+           d="m 121.28061,3.4328485 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector52pad-50"
+           stroke-width="1.152"
+           gorn="0.1.2.0.23"
+           fill="none" />
+        <path
+           d="m 105.37757,53.857091 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector52pad-5-1"
+           stroke-width="1.152"
+           gorn="0.1.2.0.23"
+           fill="none" />
+        <path
+           d="m 113.13515,53.857091 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector52pad-3-1"
+           stroke-width="1.152"
+           gorn="0.1.2.0.23"
+           fill="none" />
+        <path
+           d="m 120.50485,53.857091 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+           stroke="#ffbf00"
+           id="connector52pad-50-8"
+           stroke-width="1.152"
+           gorn="0.1.2.0.23"
+           fill="none" />
+      </g>
+    </g>
+  </g>
+  <g
+     partID="63241"
+     id="g94393"
+     transform="translate(-10.802545,-0.1358788)">
+    <path
+       d="m 34.272,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94343"
+       stroke-width="1.152"
+       gorn="0.1.2.0.0"
+       fill="none" />
+    <path
+       d="m 41.472,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94345"
+       stroke-width="1.152"
+       gorn="0.1.2.0.1"
+       fill="none" />
+    <path
+       d="m 27.072,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94347"
+       stroke-width="1.152"
+       gorn="0.1.2.0.2"
+       fill="none" />
+    <path
+       d="m 19.872,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94349"
+       stroke-width="1.152"
+       gorn="0.1.2.0.3"
+       fill="none" />
+    <path
+       d="m 48.672,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94351"
+       stroke-width="1.152"
+       gorn="0.1.2.0.4"
+       fill="none" />
+    <path
+       d="m 55.872,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94353"
+       stroke-width="1.152"
+       gorn="0.1.2.0.5"
+       fill="none" />
+    <path
+       d="m 63.072,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94355"
+       stroke-width="1.152"
+       gorn="0.1.2.0.6"
+       fill="none" />
+    <path
+       d="m 70.272,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94357"
+       stroke-width="1.152"
+       gorn="0.1.2.0.7"
+       fill="none" />
+    <path
+       d="m 77.472,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94359"
+       stroke-width="1.152"
+       gorn="0.1.2.0.8"
+       fill="none" />
+    <path
+       d="m 84.672,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94361"
+       stroke-width="1.152"
+       gorn="0.1.2.0.9"
+       fill="none" />
+    <path
+       d="m 91.872,54 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94363"
+       stroke-width="1.152"
+       gorn="0.1.2.0.10"
+       fill="none" />
+    <path
+       d="m 98.927818,54.106697 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 0.589621,0 1.129971,-0.270988 1.476949,-0.712092 0.246207,-0.312996 0.395051,-0.711645 0.395051,-1.159908 z"
+       stroke="#ffbf00"
+       id="path94365-3"
+       stroke-width="1.152"
+       gorn="0.1.2.0.11"
+       fill="none"
+       sodipodi:nodetypes="ssssss" />
+    <path
+       d="m 120.50485,53.857091 c 0,-1.008001 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.863999 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 0.58962,0 1.12997,-0.270989 1.47695,-0.712092 0.24621,-0.312996 0.39505,-0.711645 0.39505,-1.159908 z"
+       stroke="#ffbf00"
+       id="path94365-2"
+       stroke-width="1.152"
+       gorn="0.1.2.0.11"
+       fill="none"
+       sodipodi:nodetypes="ssssss" />
+    <path
+       d="m 113.13515,53.857091 c 0,-1.008001 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.863999 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 0.58962,0 1.12997,-0.270989 1.47695,-0.712092 0.24621,-0.312996 0.39505,-0.711645 0.39505,-1.159908 z"
+       stroke="#ffbf00"
+       id="path94365-2-9"
+       stroke-width="1.152"
+       gorn="0.1.2.0.11"
+       fill="none"
+       sodipodi:nodetypes="ssssss" />
+    <path
+       d="m 105.37757,53.857091 c 0,-1.008001 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.863999 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 0.58962,0 1.12997,-0.270989 1.47695,-0.712092 0.24621,-0.312996 0.39505,-0.711644 0.39505,-1.159908 z"
+       stroke="#ffbf00"
+       id="path94365-9"
+       stroke-width="1.152"
+       gorn="0.1.2.0.11"
+       fill="none"
+       sodipodi:nodetypes="ssssss" />
+    <path
+       d="m 41.349513,3.664515 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94367"
+       stroke-width="1.152"
+       gorn="0.1.2.0.12"
+       fill="none" />
+    <path
+       d="m 34.149513,3.664515 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94369"
+       stroke-width="1.152"
+       gorn="0.1.2.0.13"
+       fill="none" />
+    <path
+       d="m 26.949513,3.664515 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94371"
+       stroke-width="1.152"
+       gorn="0.1.2.0.14"
+       fill="none" />
+    <path
+       d="m 19.749513,3.664515 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94373"
+       stroke-width="1.152"
+       gorn="0.1.2.0.15"
+       fill="none" />
+    <path
+       d="m 48.549513,3.664515 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94375"
+       stroke-width="1.152"
+       gorn="0.1.2.0.16"
+       fill="none" />
+    <path
+       d="m 55.749513,3.664515 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94377"
+       stroke-width="1.152"
+       gorn="0.1.2.0.17"
+       fill="none" />
+    <path
+       d="m 62.949513,3.664515 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94379"
+       stroke-width="1.152"
+       gorn="0.1.2.0.18"
+       fill="none" />
+    <path
+       d="m 70.149513,3.664515 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94381"
+       stroke-width="1.152"
+       gorn="0.1.2.0.19"
+       fill="none" />
+    <path
+       d="m 84.549513,3.664515 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94383"
+       stroke-width="1.152"
+       gorn="0.1.2.0.20"
+       fill="none" />
+    <path
+       d="m 77.349513,3.664515 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94385"
+       stroke-width="1.152"
+       gorn="0.1.2.0.21"
+       fill="none" />
+    <path
+       d="m 91.749513,3.664515 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94387"
+       stroke-width="1.152"
+       gorn="0.1.2.0.22"
+       fill="none" />
+    <path
+       d="m 99.072,3.6 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.080002,0 -1.872002,0.864 -1.872002,1.872 0,1.08 0.792,1.872 1.872002,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94389-1"
+       stroke-width="1.152"
+       gorn="0.1.2.0.23"
+       fill="none" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#050505;stroke-width:0.749999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 32.566433,6.3016484 c 0.01701,1.7262137 -0.207779,2.6692717 -0.207779,2.6692717 v 0"
+       id="path76961-7-7"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="118.09293"
+       y="10.258559"
+       id="text58805"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="118.09293"
+         y="10.258559">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="81.991974"
+       y="10.248573"
+       id="text58805-5"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="81.991974"
+         y="10.248573">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="74.939423"
+       y="10.258559"
+       id="text58805-5-0"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="74.939423"
+         y="10.258559">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="26.347569"
+       y="10.361572"
+       id="text58805-5-6-1"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="26.347569"
+         y="10.361572">5V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="52.942268"
+       y="10.268555"
+       id="text58805-5-3-1"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-4-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="52.942268"
+         y="10.268555">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="60.098129"
+       y="10.258559"
+       id="text58805-5-9-8"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="60.098129"
+         y="10.258559">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="45.786385"
+       y="10.268555"
+       id="text58805-5-65-8"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="45.786385"
+         y="10.268555">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="16.80127"
+       y="10.258559"
+       id="text58805-5-39-1"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-1-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="16.80127"
+         y="10.258559">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="65.754318"
+       y="10.398422"
+       id="text58805-5-00-0"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-0-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="65.754318"
+         y="10.398422">RST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="37.09343"
+       y="10.268555"
+       id="text58805-5-05-5"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-96-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="37.09343"
+         y="10.268555">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="96.097084"
+       y="10.258559"
+       id="text58805-0"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="96.097084"
+         y="10.258559">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.751181;stroke-miterlimit:4;stroke-dasharray:none"
+       x="88.863663"
+       y="10.288559"
+       id="text58805-2"
+       inkscape:transform-center-x="-11.610555"
+       inkscape:transform-center-y="1.3396855"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.751181;stroke-miterlimit:4;stroke-dasharray:none"
+         x="88.863663"
+         y="10.288559">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="104.59541"
+       y="10.338974"
+       id="text58805-3"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="104.59541"
+         y="10.338974">3V3</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#050505;stroke-width:0.749999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.60918,5.8853234 c 0.017,1.726215 -0.20778,2.6692447 -0.20778,2.6692447 v 0"
+       id="path76961"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#050505;stroke-width:0.749999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.86753,5.9399754 c -0.017,1.726243 0.20777,2.6692727 0.20777,2.6692727 v 0"
+       id="path76961-7"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#050505;stroke-width:0.749999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.136203,6.3016484 c -0.01701,1.7262137 0.20778,2.6692717 0.20778,2.6692717 v 0"
+       id="path76961-7-5"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="16.692602"
+       y="50.062344"
+       id="text58805-5-6"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="16.692602"
+         y="50.062344">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="45.535809"
+       y="50.072384"
+       id="text58805-5-3"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="45.535809"
+         y="50.072384">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="52.428486"
+       y="50.05238"
+       id="text58805-5-9"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="52.428486"
+         y="50.05238">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="38.196178"
+       y="50.062344"
+       id="text58805-5-65"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="38.196178"
+         y="50.062344">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="23.690443"
+       y="50.092342"
+       id="text58805-5-01"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-98"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="23.690443"
+         y="50.092342">19</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="59.694496"
+       y="50.05238"
+       id="text58805-5-00"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="59.694496"
+         y="50.05238">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="30.858303"
+       y="50.072384"
+       id="text58805-5-05"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-96"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="30.858303"
+         y="50.072384">18</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="74.035477"
+       y="50.062344"
+       id="text58805-5-6-7"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="74.035477"
+         y="50.062344">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="102.55793"
+       y="50.072361"
+       id="text58805-5-3-0"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-4-21"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="102.55793"
+         y="50.072361">RX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="110.07634"
+       y="50.072361"
+       id="text58805-5-9-1"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="110.07634"
+         y="50.072361">TX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="95.539055"
+       y="50.062344"
+       id="text58805-5-65-85"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="95.539055"
+         y="50.062344">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="66.874634"
+       y="50.072361"
+       id="text58805-5-39-8"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-1-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="66.874634"
+         y="50.072361">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="81.233131"
+       y="50.072361"
+       id="text58805-5-01-5"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-98-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="81.233131"
+         y="50.072361">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="117.04264"
+       y="50.062344"
+       id="text58805-5-00-5"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="117.04264"
+         y="50.062344">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="88.397484"
+       y="50.092342"
+       id="text58805-5-05-0"
+       inkscape:export-filename="C:\Users\mask7\Pictures\元器件\rect2310.png"
+       inkscape:export-xdpi="1154"
+       inkscape:export-ydpi="1154"><tspan
+         sodipodi:role="line"
+         id="tspan58803-3-96-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58965px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="88.397484"
+         y="50.092342">9</tspan></text>
+    <path
+       d="m 106.15333,3.4328482 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.872 1.872,1.872 1.008,0 1.872,-0.792 1.872,-1.872 z"
+       stroke="#ffbf00"
+       id="path94387-0"
+       stroke-width="1.152"
+       gorn="0.1.2.0.22"
+       fill="none" />
+    <path
+       d="m 113.91091,3.4328485 c 0,-1.008 -0.864,-1.872 -1.872,-1.872 -1.08,0 -1.872,0.864 -1.872,1.872 0,1.08 0.792,1.8719996 1.872,1.8719996 1.008,0 1.872,-0.7919996 1.872,-1.8719996 z"
+       stroke="#ffbf00"
+       id="path94387-0-2"
+       stroke-width="1.152"
+       gorn="0.1.2.0.22"
+       fill="none" />
+  </g>
+</svg>
