@@ -49,7 +49,7 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
 ## 原理
 
 #### 利用蓝牙通信+N沟道MOS实现小电流控制大电流实现控制通断; VIEW->原理图
-<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/IgniterBLE50_Principle" width="200" alt="IgniterBLE50_Principle" />
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/IgniterBLE50_Principle.png" width="500" alt="IgniterBLE50_Principle" />
 
 ## 制作
 
