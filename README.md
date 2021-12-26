@@ -53,7 +53,7 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
 <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/IgniterBLE50_Principle.png" width="400" alt="IgniterBLE50_Principle" />
 
 ```
-1.为什么无法点不燃火柴？
+1.为什么无法点燃火柴？
 答：镍铬合金通过的电流太小，无法让镍铬合金加热到火柴的燃点。
 
 2.如何断开和手机端的连接？
