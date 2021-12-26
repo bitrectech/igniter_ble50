@@ -40,12 +40,11 @@ const char *hex2string(const void *buffer, uint16_t buff_len) {
 
 void write_event_monitor(esp_ble_gatts_cb_param_t *param) {
     const char *ptr_line = hex2string(param->write.value,param->write.len);
-    vTaskDelay(300);
     //解析指令
     if (strcmp(ptr_line, IGNITION_CMD) == 0) {
         ESP_LOGI(GATTS_TABLE_TAG, "FIRE_CMD:%s", ptr_line);
         gpio_set_level(GPIO_OUTPUT_IO_0, 1);
-        vTaskDelay(100);
+        vTaskDelay(300);
         gpio_set_level(GPIO_OUTPUT_IO_0, 0);
     }else {
         ESP_LOGI(GATTS_TABLE_TAG, "CMD:%s", ptr_line);
