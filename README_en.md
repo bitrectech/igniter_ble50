@@ -62,7 +62,7 @@ nickel-chromium alloy heating ignition match; VIEW-> schematic
     alt="IgniterBLE50_Principle" />
 
 ```
-1. Why can't you not burn a match?
+1. Why can't you burn a match?
 A: The current of nickel-chromium alloy is too small, and the nickel-chrome alloy is not heated to the burning point of
 matches.
 
