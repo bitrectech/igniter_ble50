@@ -80,7 +80,7 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
 &nbsp; 
 
 3.电路焊接 \
-&nbsp; 按照原理图一次焊接，注意在点火线路使用24AWG的电线保证电流足够让镍铬合金加热到火柴的燃点。
+&nbsp; 按照原理图焊接，注意在点火线路中使用24AWG的电线以保证电流足够可以使镍铬合金加热至火柴的燃点。
 
 4.开发环境 \
 &nbsp; 开发环境以来于 __ESP-IDF__ ,所以先搭建环境，参考[《乐鑫 ESP-IDF VS Code 插件快速操作指南》](https://zhuanlan.zhihu.com/p/345381824)

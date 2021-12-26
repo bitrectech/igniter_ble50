@@ -72,12 +72,12 @@ A: I only need to press the RESET button on the development board.
 
 ## BuildUP
 
-Preparing materials \
-&nbsp; ESP32-C3-mini-1 development board \ * 1; \
-&nbsp; 5 \ * 7 cave board \ * 1; \
-&nbsp; Crocodile Clip \ * 2 (Red Black); \
+1.Preparing materials\
+&nbsp; ESP32-C3-mini-1 development board \* 1; \
+&nbsp; 5 \* 7 cave board \* 1; \
+&nbsp; Crocodile Clip \* 2 (Red Black); \
 &nbsp; A2SHB (N-channel MOS tube); \
-&nbsp; Battery (3.7V) \ * 1+ charging board; \
+&nbsp; Battery (3.7V) \* 1+ charging board; \
 &nbsp; Nickel-chrome alloy 0.1mm a volume; \
 &nbsp; DuPont lines; \
 &nbsp; 24AWG wire;
@@ -93,8 +93,7 @@ adhesive.
 &nbsp;
 
 3. Circuit welding \
-&nbsp; According to the schematic, it is soldered once, pay attention to the wireless wire to use 24AWG wire to ensure
-that the nickel-chromium alloy is heated to the burning point of matches.
+&nbsp; Welding according to the schematic, pay attention to the use of 24AWG wires in the ignition line to ensure that the current is sufficient to heat the nickel-chromium alloy to the combustion point of the match.
 
 4. Development Environment \
 & nbsp; Since the development environment, the __esp-idf__, so build the environment first, refer to [" Espressif ESP-IDF VS
