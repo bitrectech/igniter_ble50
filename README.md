@@ -71,9 +71,58 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
 &nbsp;  杜邦线若干；\
 &nbsp;  24AWG电线；
 
-<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/material_science.png" width="400" alt="material_science.png" />
-## 用法 
+&nbsp; __物料图：__
 
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniter_ble50/.image/material_science.png" width="800" alt="material_science.png" />
+
+2.点火头制作 \
+&nbsp; 截取2-3cm的镍铬合金缠绕在火柴上，用透明胶或者热熔胶固定。
+&nbsp; 
+
+3.电路焊接 \
+&nbsp; 按照原理图一次焊接，注意在点火线路使用24AWG的电线保证电流足够让镍铬合金加热到火柴的燃点。
+
+4.开发环境 \
+&nbsp; 开发环境以来于 __ESP-IDF__ ,所以先搭建环境，参考[《乐鑫 ESP-IDF VS Code 插件快速操作指南》](https://zhuanlan.zhihu.com/p/345381824)
+
+5.下载编译 
+
+```
+git clone https://github.com/bitrefactor/igniter_ble50.git
+```
+
+6.按照官方教程进行编译下载即可。
+
+## 用法 
+1.在安卓APP中连接到设备；点击Fire按钮，设备接收到"fire"单词，就会触发1秒钟的开启mos电流
+
+2.代码说明
+``` c
+#define GPIO_OUTPUT_IO_0 18
+
+#define IGNITION_CMD "fire"
+
+···
+
+void write_event_monitor(esp_ble_gatts_cb_param_t *param) {
+    const char *ptr_line = hex2string(param->write.value,param->write.len);
+    //解析指令
+    if (strcmp(ptr_line, IGNITION_CMD) == 0) {
+        ESP_LOGI(GATTS_TABLE_TAG, "FIRE_CMD:%s", ptr_line);
+        gpio_set_level(GPIO_OUTPUT_IO_0, 1);
+        vTaskDelay(300);
+        gpio_set_level(GPIO_OUTPUT_IO_0, 0);
+    }else {
+        ESP_LOGI(GATTS_TABLE_TAG, "CMD:%s", ptr_line);
+    }
+}
+
+void app_main(void) {
+    set_gpio(GPIO_OUTPUT_IO_0);  //初始化输出管脚 GPIO_OUTPUT_IO_0定义为18
+    set_lifecycle(write_event_monitor); //回调函数传入蓝牙的生命周期事件
+}
+
+```
 
 ## 许可证
 
